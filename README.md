@@ -8,7 +8,7 @@ Este proyecto muestra cómo trabajar en equipo separando **frontend** y **backen
 - **Backend:** API Flask que entrega los cursos en formato JSON.
 
 ## Integrantes
-- Angelica Ruge: Desarrollo del frontend (`rama-frontend`)
+- Angelica Ruge: Desarrollo del frontend (`rama-fronted`)
 - Angelica Ruge: Desarrollo del backend (`rama-backend`)...Se suponia que debia ser mi compañero Gabriel tellez, pero no colaboro con el trabajo.
 
 ## Ejecución
